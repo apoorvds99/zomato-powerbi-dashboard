@@ -1,28 +1,52 @@
-Zomato Restaurant Analysis Dashboard
-Description
-Interactive Power BI dashboard analyzing Zomato restaurant data across countries, cuisines, ratings, and online services to uncover key business insights.
+Zomato Restaurant Analysis Dashboard (Power BI)
+📊 Overview
 
-Tools Used
+Interactive Power BI dashboard analyzing Zomato restaurant data across countries, cities, cuisines, and customer services to generate business insights.
+
+🎯 Objective
+
+Analyze restaurant distribution and ratings
+
+Identify popular cuisines
+
+Study online delivery and table booking trends
+
+Support data-driven business decisions
+
+🛠 Tools Used
+
 Power BI
 
-Excel
+Microsoft Excel
 
-Key Insights
-Total restaurants: 9551
+📌 Key Metrics
 
-Coverage across 14 countries
+Total Restaurants: 9,551
 
-Average rating: 2.89
+Countries: 14
 
-Analysis of cuisines and their ratings
+Cities: 5
 
-Online delivery and table booking trends
+Average Rating: 2.89
 
-City-wise restaurant distribution
+📈 Key Insights
 
-Files in Repository
-Zomato_Dashboard.pbix → Power BI project file
+Restaurant presence is concentrated in major cities.
 
-Zomato_Data.xlsx → dataset
+Few cuisines dominate the market.
 
-Zomato_Dashboard.pdf → dashboard preview
+Online delivery adoption is higher than table booking.
+
+Average ratings suggest scope for service improvement.
+
+📂 Files
+
+Zomato_Dashboard.pbix – Power BI project
+
+Zomato_Data.xlsx – Dataset
+
+Zomato_Dashboard.pdf – Dashboard preview
+
+👨‍💻 Author
+
+Apoorv Singh
