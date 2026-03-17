@@ -4,10 +4,10 @@
 Interactive Power BI dashboard analyzing Zomato restaurant data across countries, cities, cuisines, and customer services to generate business insights.
 
 ## Objective
-- Analyze restaurant distribution and ratings
-- Identify popular cuisines
-- Study online delivery and table booking trends
-- Support data-driven business decisions
+- Analyze restaurant distribution and ratings.
+- Identify popular cuisines.
+- Study online delivery and table booking trends.
+- Support data-driven business decisions.
 
 ## Tools Used
 - Power BI
